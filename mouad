@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouad Benhmidouch - Ingénieur en Génie Civil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 1rem;
+        }
+        .section {
+            background: #fff;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section h2 {
+            color: #333;
+        }
+        .skills, .experience, .education {
+            list-style: none;
+            padding: 0;
+        }
+        .skills li, .experience li, .education li {
+            margin: 0.5rem 0;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mouad Benhmidouch</h1>
+        <p>Ingénieur en Génie Civil</p>
+    </header>
+    <div class="container">
+        <section class="section">
+            <h2>À propos de moi</h2>
+            <p>Ingénieur d’état en génie civil passionné, je suis reconnu pour mon engagement et ma capacité à mener à bien des projets complexes et ambitieux. Fort de plusieurs années d'expérience dans la gestion de projets de construction et d'infrastructures, j'excelle dans la planification, la coordination et la supervision des travaux.</p>
+        </section>
+        <section class="section">
+            <h2>Compétences</h2>
+            <ul class="skills">
+                <li>Planification, budgétisation, étude de prix, analyse de donnée, organisation de chantier, contrôle de documentation.</li>
+                <li>Autocad, RSA, Piste 5, Ms Project, Ms Office.</li>
+                <li>RDM, terrassement, assainissement, voiries, contrôle qualité, dimensionnement des chaussées, assainissement, béton armé.</li>
+                <li>Français courant, Anglais courant, Arabe maternelle.</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Expériences professionnelles</h2>
+            <ul class="experience">
+                <li><strong>Ingénieur chef de projet</strong> - Lydec (01/2024 - Aujourd'hui)
+                    <ul>
+                        <li>Réhabilitation et extension de la STEP de l’ONDA, Casablanca, Maroc</li>
+                        <li>Extension de la STEP de Médiouna, Casablanca, Maroc</li>
+                        <li>Réhabilitation des stations de pompage SP7 et SP9, Casablanca, Maroc</li>
+                    </ul>
+                </li>
+                <li><strong>Ingénieur de travaux</strong> - SETRAT (04/2023 - 12/2023)
+                    <ul>
+                        <li>Extension du port de TangerMed 2 - TC4 - TM2, Ksar Sghir, Maroc</li>
+                    </ul>
+                </li>
+                <li><strong>Ingénieur chef de projet</strong> - CAP TP (11/2022 - 03/2023)
+                    <ul>
+                        <li>Extension de 3 réservoirs d'eau potable, Tanger-Tétouan, Maroc</li>
+                    </ul>
+                </li>
+                <li><strong>Ingénieur de travaux</strong> - CAP TP (09/2021 - 10/2022)
+                    <ul>
+                        <li>Réhabilitation et extension de la STEP d’Essaouira, Essaouira, Maroc</li>
+                    </ul>
+                </li>
+                <li><strong>Ingénieur de travaux</strong> - CAP TP (11/2020 - 08/2021)
+                    <ul>
+                        <li>Extension d’un réservoir enterré, Maamoura, Maroc</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Formations et diplômes</h2>
+            <ul class="education">
+                <li><strong>Ingénieur d’état option bâtiment et travaux publics</strong> - Ecole Marocaine des Sciences de l’Ingénieur, Rabat, Maroc (2015 - 2020)</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Centres d’intérêts</h2>
+            <p>Voyage, Piano, Lecture</p>
+        </section>
+        <section class="section contact-info">
+            <h2>Contact</h2>
+            <p><strong>Téléphone :</strong> +212 6 61 76 45 61</p>
+            <p><strong>Email :</strong> <a href="mailto:benhmidouch.m@gmail.com">benhmidouch.m@gmail.com</a></p>
+        </section>
+    </div>
+</body>
+</html>
